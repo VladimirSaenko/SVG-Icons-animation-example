@@ -12,6 +12,6 @@ https://vladimirsaenko.github.io/Portfolio-3/sites/site-4/SVG-Icon-animation-exa
 
 ### Codepen {
 
-https://codepen.io/vladimirsaenko/pen/RwpOaev
+https://codepen.io/vladimirsaenko/pen/eYWdgYp
 
 }
