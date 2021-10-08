@@ -4,7 +4,7 @@
 
 ### Сайт с анимациями SVG-иконок 
 
-## Portfolio-3 {
+## Portfolio {
 
 ### https://vladimirsaenko.github.io/Portfolio-3/sites/site-4/SVG-Icon-animation-example/index.html
 
